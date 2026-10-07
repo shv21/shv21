@@ -34,5 +34,5 @@ Currently exploring **AI/ML with Python** and building things that solve real pr
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,tailwind,nodejs,express,mongodb,git,github,postman,vite,vercel,netlify,vscode,windows,ubuntu,render" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,tailwind,nodejs,express,mongodb,git,github,postman,vite,vercel,netlify,vscode,ubuntu,render" />
 </p>
