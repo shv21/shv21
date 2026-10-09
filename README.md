@@ -19,8 +19,8 @@
   <a href="mailto:shivrajjadhav2123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/lnxfy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=ig&logoColor=white" />
+<a href="https://instagram.com/lnxfy">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 </p>
 
